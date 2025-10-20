@@ -1,1 +1,1 @@
-# Simulaci-n-Relatividad-
+# Simulación de la Relatividad
