@@ -2,15 +2,15 @@
 import math
 import time
 
-from rocket import Rocket
-from watch  import Watch
-from button import Start
-from button import Stop
-from button import Pause
-from button import Scroll
-from button import Change_velocity
-from button import Galileo
-from button import Arrow
+from Rocket import Rocket
+from Watch  import Watch
+from Button import Start
+from Button import Stop
+from Button import Pause
+from Button import Scroll
+from Button import Change_velocity
+from Button import Galileo
+from Button import Arrow
 def run_game():
     '''inicia pygame'''
     pygame.init()
@@ -123,10 +123,10 @@ def run_game():
     
     '''fuentes'''
     font_1 = pygame.font.SysFont("arial", 18, bold=True)
-    font_2 = pygame.font.Font('fonts\courbd.ttf', 19)
-    font_3 = pygame.font.Font('fonts\mpus.ttf', 22)
-    font_4 = pygame.font.Font('fonts\courierstd-bold.otf', 22)
-    font_5 = pygame.font.Font('fonts\mpus.ttf', 56)
+    font_2 = pygame.font.Font('font\courbd.ttf', 19)
+    font_3 = pygame.font.Font('font\mpus.ttf', 22)
+    font_4 = pygame.font.Font('font\courierstd-bold.otf', 22)
+    font_5 = pygame.font.Font('font\mpus.ttf', 56)
 
     
     def text_1(Ttext, Tcolor, Tlocation):
