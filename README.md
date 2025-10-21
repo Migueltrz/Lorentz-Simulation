@@ -44,7 +44,7 @@ It was developed to enhance understanding of *Special Relativity* through intera
 | Concept | Description |
 |----------|-------------|
 | **Galilean Transformations** | Preserve Newton’s equations between inertial reference frames. |
-| **Lorentz Transformations** | Keep the speed of light constant for all inertial observers. $$\gamma = \frac{1}{\sqrt{1 - \left(\frac{v^2}{c^2}\right)}}$$|
+| **Lorentz Transformations** | Keep the speed of light constant for all inertial observers.&emsp;&emsp;&emsp;&emsp;&emsp; $$\gamma = \frac{1}{\sqrt{1 - \left(\frac{v^2}{c^2}\right)}}$$|
 | **Length Contraction** | A moving object appears shorter from an inertial frame. |
 | **Time Dilation** | A moving clock runs slower compared to one at rest. |
 
