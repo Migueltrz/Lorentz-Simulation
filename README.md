@@ -118,7 +118,7 @@ This file defines various button classes that manage user interaction, including
 
 The program simulates two reference frames:
 
-<!-- (./images/banner_lorentz.png "Lorentz Simulation — Python & Pygame") -->
+![Diagrama Referencia](imagenes/Imagen1.png)
 
 * Frame 1: The stationary observer sees the rocket moving close to light speed.
 
